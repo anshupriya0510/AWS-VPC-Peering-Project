@@ -190,31 +190,31 @@ These tests demonstrate successful private IP connectivity between the two VPCs 
 
 ## 📸 Screenshots
 
-Create a `screenshots/` directory and add your actual AWS console and terminal screenshots.
 
-```text
+
+
 screenshots/
-├── 01-vpc-a.png
-├── 02-vpc-b.png
-├── 03-vpc-peering-active.png
-├── 04-route-table-vpc-a.png
-├── 05-route-table-vpc-b.png
-├── 06-ec2-instances.png
-├── 07-ping-app-a-to-app-b.png
-└── 08-ping-app-b-to-app-a.png
+├── 01-vpc-a.png   <img width="1906" height="898" alt="Screenshot 2026-10-28 014307" src="https://github.com/user-attachments/assets/dcee614f-0de0-4b4a-bd57-f9ea86e82478" />
+
+├── 02-vpc-b.png   <img width="1915" height="827" alt="Screenshot 2026-10-28 014335" src="https://github.com/user-attachments/assets/d573e37f-53e1-4d77-a564-876e8db02e30" />
+
+├── 03-vpc-peering-active.png <img width="1908" height="828" alt="Screenshot 2026-10-28 014410" src="https://github.com/user-attachments/assets/c43885d4-c4bb-4e13-a70d-d38530454327" />
+
+├── 04-route-table-vpc-a.png <img width="1910" height="888" alt="Screenshot 2026-10-28 014648" src="https://github.com/user-attachments/assets/eeb19328-e96a-4781-ada6-39c7a28dbe4b" />
+
+├── 05-route-table-vpc-b.png <img width="1907" height="902" alt="Screenshot 2026-10-28 014619" src="https://github.com/user-attachments/assets/1fef826b-03c0-49e0-a266-1760faccf2ae" />
+
+├── 06-ec2-instances.png  <img width="1911" height="887" alt="Screenshot 2026-10-28 014729" src="https://github.com/user-attachments/assets/2f072bd0-f065-465f-98f4-856d8b47703d" />
+
+├── 07-ping-app-a-to-app-b.png <img width="1897" height="991" alt="Screenshot 2026-10-28 015124" src="https://github.com/user-attachments/assets/a25a46f9-24a6-434e-86e4-cf55b8a4eda2" />
+
+└── 08-ping-app-b-to-app-a.png <img width="1903" height="998" alt="Screenshot 2026-10-28 015501" src="https://github.com/user-attachments/assets/3126002a-9fee-40ef-85b4-b2334c22bc1d" />
+
 ```
 
-Embed the screenshots in this README using Markdown, for example:
 
-```markdown
-![VPC Peering Connection](screenshots/03-vpc-peering-active.png)
 
-![App-A to App-B Connectivity](screenshots/07-ping-app-a-to-app-b.png)
 
-![App-B to App-A Connectivity](screenshots/08-ping-app-b-to-app-a.png)
-```
-
-Make sure the image filenames match the files you upload.
 
 ## 🔐 Security Best Practices
 
